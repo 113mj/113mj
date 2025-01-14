@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![1113mj's GitHub stats](https://github-readme-stats.vercel.app/api?username=113mj&show_icons=true&theme=radical)
+## GitHub Stats
+![113mj's GitHub stats](https://github-readme-stats.vercel.app/api?username=113mj&show_icons=true&theme=radical)
+
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=113mj&layout=compact&theme=radical)
-[![1113mj's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=113mj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Activity Graph
+[![113mj's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=113mj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Velog Blog
+Check out my Velog blog for more posts:  
+[![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@1113mj)
