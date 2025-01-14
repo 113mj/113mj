@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## GitHub Stats
-![113mj's GitHub stats](https://github-readme-stats.vercel.app/api?username=113mj&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=113mj&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)
+
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=113mj&layout=compact&theme=radical&count_private=true)
