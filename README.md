@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 ![113mj's GitHub stats](https://<your-vercel-instance>.vercel.app/api?username=113mj&count_private=true&show_icons=true&theme=radical)
+![113mj's GitHub stats](https://github-readme-stats.vercel.app/api?username=113mj&count_private=true)
 
 
 ## Top Languages
