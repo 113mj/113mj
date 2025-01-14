@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=113mj&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=113mj&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ## Activity Graph
 [![113mj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=113mj&theme=github)]
